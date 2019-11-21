@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-touch $${HOME}/testfile1
+touch $${HOME}/testfile-prod
