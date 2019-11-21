@@ -1,4 +1,4 @@
 
 #!/usr/bin/env bash
 
-touch $${HOME}/testfile-devvvvv
+touch $${HOME}/testfile-dev
