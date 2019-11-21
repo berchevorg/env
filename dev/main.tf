@@ -4,7 +4,7 @@ terraform {
     organization = "berchevorg"
 
     workspaces {
-      name = "env-dev"
+     name = "env-dev"
     }
   }
 }
